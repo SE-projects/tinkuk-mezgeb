@@ -1,2 +1,2 @@
 # tinkuk-mezgeb
-An application for a police precinct issue filing system
+A class project with a purpose of automating a police precinct issue filing system.
